@@ -2,7 +2,7 @@ import telebot
 import random
 import urllib
 
-daddy_bot = telebot.TeleBot("") # bot id
+daddy_bot = telebot.TeleBot("") # bot id must be entered into parentheses
 
 command_list = '''\
 Commands are case sensitive:
